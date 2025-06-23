@@ -1,1 +1,35 @@
-file:///C:/Users/Utente/Desktop/Nuova%20cartella/pythonpro/front_back/index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Questo è il modo in cui la scheda verrà denominata nel browser</title>
+    <title>Informazioni utili!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Questa è una grande intestazione!</h1>
+    <p>Questo è solo un paragrafo di testo</p>
+    <h2>E questa è un'intestazione leggermente più piccola (disordinata)</h2>
+             <ul>
+                   <li>Questo è un elemento di un elenco puntato (il primo)</li>
+                   <li>E questo è il secondo elemento</li>
+             </ul>
+    <h2>Questa è un'intestazione leggermente più piccola (ordinata)</h2>
+             <ol>
+                   <li>Questo è un elemento di un elenco puntato (il primo)</li>
+                   <li>E questo è il secondo elemento</li>
+             </ol>
+    <p>Questo è un paragrafo</p>
+    <p><strong>E questo qui in grassetto (un pizzico di CSS)</strong></p>
+    <ol>Ora confrontero tutte le grandezze delle scritte predefinite senza CSS:
+        <li><h1>Titanico</h1></li>
+        <li><h2>Enorme</h2></li>
+        <li><h3>Grande</h3></li>
+        <li><h4>Medio</h4></li>
+        <li><h5>Piccolo</h5></li>
+        <li><h6>Minuscolo</h6></li>
+    </ol>
+    <h3>Questa è una immagine di gatto</h3>
+    <img src="https://i.kym-cdn.com/editorials/icons/original/000/007/822/side-eye-cat.jpg" alt="Image 1">
+
+</body>
+</html>
